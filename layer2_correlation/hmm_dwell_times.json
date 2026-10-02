@@ -1,0 +1,27 @@
+{
+  "0": {
+    "mean_seconds": 30,
+    "std_seconds": 0,
+    "sample_count": 1
+  },
+  "1": {
+    "mean_seconds": 61,
+    "std_seconds": 44,
+    "sample_count": 54
+  },
+  "2": {
+    "mean_seconds": 307,
+    "std_seconds": 1598,
+    "sample_count": 71
+  },
+  "3": {
+    "mean_seconds": 626,
+    "std_seconds": 2071,
+    "sample_count": 45
+  },
+  "4": {
+    "mean_seconds": 4620,
+    "std_seconds": 0,
+    "sample_count": 1
+  }
+}

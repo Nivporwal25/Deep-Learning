@@ -1,0 +1,13 @@
+{
+  "source": "UNSW-NB15",
+  "rows": 10627,
+  "features": [
+    "dur",
+    "spkts",
+    "dpkts",
+    "sbytes",
+    "dbytes",
+    "rate"
+  ],
+  "classes": 7
+}
